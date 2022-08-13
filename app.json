@@ -17,7 +17,7 @@
       "inline"
     ],
     "website": "https://github.com/Jeolpaul/George-MalarAutofilter",
-    "repository": "https://github.com/Jeolpaul/George-MalarAutofilter",
+    "repository": "https://github.com/midlajkv/George-MalarAutofilter.git",
     "env": {
         "BOT_TOKEN": {
             "description": "Your bot token.",
